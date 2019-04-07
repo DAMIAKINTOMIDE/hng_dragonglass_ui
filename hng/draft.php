@@ -9,12 +9,12 @@
 						<?php include'includes/nav.php'; ?>
 					</div>
 
-					<div class="col-sm-12">
+					<div class="col-sm-9">
 						<div class="row">
-							<div class="col-sm-6 p-0-cs">
+							<div class="col-sm-6">
 								<h4 class="text-left my-journal">MY JOURNAL</h4>
 							</div>
-							<div class="col-sm-6 p-0-cs">
+							<div class="col-sm-6">
 								<h4 class="text-right"><a href="/" class="was-cta">Write a story</a></h4>
 							</div>
 						</div>
